@@ -3,6 +3,8 @@
 this an assignment to find the monte carlo option prices, whether theyre vanilla or not.
  I created an executable jar folder under the artifacts folder.
  The code takes the following as input:
+ 
+ 
     double So;// underlying
     
     double K;// Strike_price
