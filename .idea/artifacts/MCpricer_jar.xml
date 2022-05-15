@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MCpricer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MCpricer_jar</output-path>
+    <root id="archive" name="MCpricer.jar">
+      <element id="module-output" name="MCpricer" />
+    </root>
+  </artifact>
+</component>
